@@ -1,31 +1,39 @@
 [
     {
-        "name": "My English",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672307877.pdf",
+        "name": "English Grade-9",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672903812.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
         "source": "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
     },
     {
-        "name": "My Nepali",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672308253.pdf",
+        "name": "Nepali Grade 9",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672903464.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
         "source": "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
     },
     {
-        "name": "My Mathematics",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672308310.pdf",
+        "name": "Maths Grade -9",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672910414.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
         "source": "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
     },
     {
-        "name": "Our Serofero",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672308652.pdf",
+        "name": "Science and Technology Grade -9",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672910467.pdf",
+        "image_link": "",
+        "auther": "",
+        "publication": "",
+        "source": "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+    },
+    {
+        "name": "Social Studies Grade-9",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672910576.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
