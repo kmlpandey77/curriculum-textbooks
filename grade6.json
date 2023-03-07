@@ -1,7 +1,7 @@
 [
     {
         "name": "My English",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672307877.pdf",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672799804.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
@@ -9,7 +9,7 @@
     },
     {
         "name": "My Nepali",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672308253.pdf",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672799748.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
@@ -17,15 +17,26 @@
     },
     {
         "name": "My Mathematics",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672308310.pdf",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672799879.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
         "source": "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
     },
+
     {
-        "name": "Our Serofero",
-        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672308652.pdf",
+        "name": "Social Studies and Human Value Education Grade-6",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672800056.pdf",
+        "image_link": "",
+        "auther": "",
+        "publication": "",
+        "source": "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+    },
+
+
+    {
+        "name": "Science and Technology Grade -6",
+        "pdf_link": "https://moecdc.gov.np/storage/gallery/1672799965.pdf",
         "image_link": "",
         "auther": "",
         "publication": "",
